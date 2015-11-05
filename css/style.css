@@ -1,0 +1,13 @@
+body{
+	margin:0;
+	background-color: #000000;
+}
+.info-message {
+	background-color: #8AC007;
+	font-family: Verdana,sans-serif;
+	font-size: 15px;
+	margin: 8px;
+	color: #ffffff;
+	padding:8px;
+	border-radius:6px;
+}
